@@ -24,4 +24,4 @@ bin
 app/public/
 
 \.serverless/
-\.serverless-nextjs
+\.serverless_nextjs/
