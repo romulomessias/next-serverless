@@ -1,0 +1,24 @@
+{
+  "name": "with-react-jss",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^9.1.1",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
+    "react-jss": "10.0.0"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@types/next": "^8.0.6",
+    "@types/node": "^12.6.1",
+    "@types/react": "^16.9.5",
+    "@types/react-dom": "^16.9.1",
+    "serverless-next.js": "^1.3.0",
+    "typescript": "^3.6.3"
+  }
+}
